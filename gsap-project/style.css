@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+
+}
+
+
+.page1{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(181, 56, 56);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.page2{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(56, 181, 161);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.box{
+    width: 100%;
+    height: 100%;
+    background: blue;
+
+}
+
